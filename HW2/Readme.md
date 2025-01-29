@@ -4,7 +4,7 @@ The dataset used is the Wine Quality dataset, specifically the red wine subset, 
 
 Code Structure
 Data Loading and Preparation: Loads the dataset and splits it into features (X) and target variable (y).
-Data Splitting: The dataset is divided into training (80%), validation (10%), and test (10%) sets using scikit-learn's train_test_split function.
+Data Splitting: The dataset is divided into training (70%), validation (15%), and test (15%) sets using scikit-learn's train_test_split function.
 Linear Regression (Closed-Form Solution): Implements linear regression using the closed-form solution to calculate weights based on the training data.
 Prediction: A function to make predictions based on the learned weights.
 Visualization: Generates a scatter plot comparing actual and predicted quality values for the training set.
