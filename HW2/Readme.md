@@ -1,4 +1,3 @@
-Dataset
 
 The dataset used is the Wine Quality dataset, specifically the red wine subset, available in CSV format. Each record contains various chemical properties of wine, along with a target variable indicating the wine's quality (ranging from 0 to 10).
 
